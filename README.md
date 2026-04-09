@@ -76,9 +76,11 @@ ram-chanのページへようこそ！
 
 ## 📊 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ram-chan&show_icons=true&theme=tokyonight)](https://github.com/ram-chan)
+## 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-chan&layout=compact&theme=tokyonight)](https://github.com/ram-chan)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maki-ayatori&show_icons=true&theme=tokyonight&cache_seconds=86400)](https://github.com/maki-ayatori)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maki-ayatori&layout=compact&theme=tokyonight&cache_seconds=86400)](https://github.com/maki-ayatori)
 
 ---
 💬 開発プロジェクトのお誘い、デザインの相談、AIトークなど、なんでも気軽に声かけてください！将来のインタビュー依頼も絶賛受付中です🔥
