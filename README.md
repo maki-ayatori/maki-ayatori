@@ -74,7 +74,6 @@ ram-chanのページへようこそ！
 ![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Cakewalk](https://img.shields.io/badge/Cakewalk_by_BandLab-FF5722?style=for-the-badge&logo=bandlab&logoColor=white)
 
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
