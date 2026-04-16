@@ -77,11 +77,11 @@ ram-chanのページへようこそ！
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=maki-ayatori&show_icons=true&theme=tokyonight)](https://github.com/maki-ayatori)
 
 [![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maki-ayatori&layout=compact&theme=tokyonight)](https://github.com/maki-ayatori)
 
+
+![](https://komarev.com/ghpvc/?username=maki-ayatori&color=green)
 ---
 💬 開発プロジェクトのお誘い、デザインの相談、AIトークなど、なんでも気軽に声かけてください！将来のインタビュー依頼も絶賛受付中です🔥
